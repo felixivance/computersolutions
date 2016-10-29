@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"name": "Hardware Repairs",
+	"description": "Donec sed odio dui. Cras justo odio",
+	"image": "computer-icon.png"
+}, {
+	"id": 2,
+	"name": "Virus Removal",
+	"description": "Donec sed odio dui. Cras justo odio",
+	"image": "computer-icon.png"
+}, {
+	"id": 3,
+	"name": "Computer Maintenance",
+	"description": "Donec sed odio dui. Cras justo odio",
+	"image": "computer-icon.png"
+}]
